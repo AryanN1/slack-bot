@@ -18,3 +18,6 @@ const bot = new SlackBot({
     token: `${process.env.BOT_TOKEN}`,
     name: 'YOUR_OWN_APP_NAME'
 })
+
+Tutorial can be found here:
+    https://www.freecodecamp.org/news/building-a-slackbot-with-node-js-and-slackbots-js/amp/
