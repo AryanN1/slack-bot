@@ -1,12 +1,14 @@
-#A simple Slackbot that displays random inspiring techie quotes and jokes for developers/designers ⚡️ 
+# A simple Slackbot that displays random inspiring techie quotes and jokes for developers/designers ⚡️ 
 
 This bot is powered by the original inspireNuggets Chrome Browser Extension quotes and Chuck Norris Jokes API by Bolaji Ayodeji
 
-#Setup
+# Setup
 
 Install dependencies
 npm install
+
 npm start
+
 Create a bot in Slack and generate and include your OAuth bot token
 
 # Add this in your .env
