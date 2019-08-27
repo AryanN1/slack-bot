@@ -5,6 +5,7 @@ This bot is powered by the original inspireNuggets Chrome Browser Extension quot
 # Setup
 
 Install dependencies
+
 npm install
 
 npm start
